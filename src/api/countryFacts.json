@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": null,
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1393409038,
+    "interestingFact": "India is the second-most populous country in the world."
+  },
+  {
+    "id": 3,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331893745,
+    "interestingFact": "The United States is the third largest country by land area."
+  },
+  {
+    "id": 4,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "China has the longest continuous civilization in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 7,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38005238,
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  },
+  {
+    "id": 8,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 146171015,
+    "interestingFact": "Russia is the largest country by land area."
+  },
+  {
+    "id": 9,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125836021,
+    "interestingFact": "Japan is known as the 'Land of the Rising Sun.'"
+  },
+  {
+    "id": 10,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 60041996,
+    "interestingFact": "South Africa has three capital cities."
+  },
+  {
+    "id": 11,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104124440,
+    "interestingFact": "Egypt is home to one of the Seven Wonders of the Ancient World: the Great Pyramid of Giza."
+  },
+  {
+    "id": 12,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67391582,
+    "interestingFact": "France is the most visited country in the world."
+  },
+  {
+    "id": 13,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 59554023,
+    "interestingFact": "Italy has the most UNESCO World Heritage sites."
+  },
+  {
+    "id": 14,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 130262216,
+    "interestingFact": "Mexico introduced chocolate, corn, and chilies to the world."
+  }
+]

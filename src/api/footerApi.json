@@ -1,0 +1,21 @@
+
+
+
+
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Jhang, Punjab"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "03009581214"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "contact@iamabdullahhussain.com"
+  }
+]
